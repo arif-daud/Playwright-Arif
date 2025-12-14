@@ -12,21 +12,21 @@ Need to have:
 
 Steps needed to execute the little project of mine:
 
-1. Clone the repository:
+## 1. Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/Playwright-Arif.git
-cd Playwright-Arif
+- git clone https://github.com/YOUR-USERNAME/Playwright-Arif.git
+- cd Playwright-Arif
 
-2. Install dependencies:
-npm instal
+## 2. Install dependencies:
+- npm install
 
-3. Install Playwright browsers:
-npx playwright install
+## 3. Install Playwright browsers:
+- npx playwright install
 
-5. Running the test:
-npx playwright test
-but for beginner like me, i like to use -> npx playwright test --headed as you can view the ui hehe
+## 5. Running the test:
+- npx playwright test
+- but for beginner like me, i like to use -> npx playwright test --headed as you can view the ui hehe
 
-6. View HTML Reporting:
-npx playwright show-report
+## 6. View HTML Reporting:
+- npx playwright show-report
 
